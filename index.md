@@ -8,5 +8,6 @@ environments, specially with Kubernetes deployments.
 
 ### License
 
-This website is licensed under the [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/). The
-same terms of [Quarkus site](https://quarkus.io/) licensing are required
+This website is licensed under the [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+Using the same terms of [Quarkus site](https://quarkus.io/) and some content can be based on there.
